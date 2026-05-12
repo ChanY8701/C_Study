@@ -1,0 +1,13 @@
+# 실행 파일 (확장자 없음)
+hellow
+test
+practice
+
+# 컴파일 결과물 및 빌드 파일
+*.exe
+*.o
+*.out
+*.app
+
+# VS Code 설정 폴더 (개인 설정은 안 올리는 게 좋습니다)
+.vscode/
